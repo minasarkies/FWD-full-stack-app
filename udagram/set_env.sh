@@ -8,4 +8,4 @@ export AWS_BUCKET=arn:aws:s3:::mina-udagram
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=hello-from-other-side
-export URL=http://localhost
+export URL=udagram-api-dev.eba-ttpbhnb3.us-east-1.elasticbeanstalk.com
